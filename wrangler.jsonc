@@ -1,0 +1,16 @@
+{
+	"name": "inventario",
+	"main": ".svelte-kit/cloudflare/_worker.js",
+	"compatibility_date": "2026-01-02",
+	"assets": {
+		"directory": ".svelte-kit/cloudflare/assets",
+		"binding": "ASSETS"
+	},
+	"d1_databases": [
+		{
+			"binding": "inventario",
+			"database_name": "inventario",
+			"database_id": "a4cfe1fb-66d0-4e6f-84dd-e42642034589"
+		}
+	]
+}
