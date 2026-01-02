@@ -31,6 +31,7 @@
 	},
 	"dependencies": {
 		"csv-parse": "^6.1.0",
+		"inventario": "link:",
 		"wrangler": "^4.54.0"
 	}
 }
