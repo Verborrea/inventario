@@ -30,6 +30,7 @@
 		"vite-plugin-devtools-json": "^1.0.0"
 	},
 	"dependencies": {
+		"csv-parse": "^6.1.0",
 		"wrangler": "^4.54.0"
 	}
 }

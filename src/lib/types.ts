@@ -3,4 +3,5 @@ export interface Producto {
 	nombre: string;
 	codigo: string;
 	stock: number;
+	empresa: string;
 }
